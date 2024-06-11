@@ -19,6 +19,7 @@ menu: ["main", "footer"]
 <div style="text-align: center;">
   <h2>Windows</h2>
   <p><a href='https://github.com/darktable-org/darktable/releases/download/release-4.6.1/darktable-4.6.1-win64.exe' title='Microsoft Windows'>darktable-4.6.1-win64.exe</a></p>
+  Windows (64-bit), 8.1 w/ UCRT and later
 </div>
 <div style="text-align: center;">
   <h2>macOS</h2>
